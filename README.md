@@ -1,7 +1,7 @@
 # Projet-S4-14--2017
 "Guide vertical pour les déficients visuels"/ "Vertical Guide for the Visually Impaired"
 
-This projet consist of a set of 3 sub-projects that were developped with the aim of helping a blind climber during the practice of the sport. It was conceived to be used inside the climbing gym. The idea is to offer the climber two functionalities: 1) the possibility of exploring the wall before actually starting to climb and allow him this way to imagine the way he/she is about to follow. 2) The next step consists of guiding the climber during his way on the wall.
+This projet consist of a set of 3 sub-projects that were developped with the aim of helping a blind climber during the practice of the sport. It was conceived to be used inside the climbing gym. The idea is to offer the climber two functionalities: 1) the possibility of exploring the wall before actually starting to climb and allow him to imagine the way he/she is about to follow and 2) guiding the climber during his way on the wall.
 
 To do so, the three programs present in this respository are needed: 
 
