@@ -12,6 +12,6 @@ To do so, the three programs present in this respository are needed:
 3) Smartphone application for Android: it receives the CSV file generetade by the computer program and extracts the information of the climbing way. When the person is climbing, he/she will scan with a special reader the climbing hold that has been taken, and send that information via Bluetooth to the smarthphone. Te application will use the information sent by the reading to identify if the hold belongs to the climbing way and will provide the climber with instructions to get the following. 
 
 
-License
+# License
 
 All the the components of this projet are free license. 
