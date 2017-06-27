@@ -1,4 +1,5 @@
-NAME
+COMPUTER PROGRAM
+
 This program consists of 4 subprograms that working together will allow to make a recognition of holds (prises in french).
 It begins with the image of the climbing wall and it will choose the holds of the colors chosen and finally allows the user to give characteristics to them.
 
@@ -35,7 +36,7 @@ The libraries needed for this programe are:
 -csv
 
 Installing
-Download the program from ZZZZZZ and put all the files in the same folder.
+Download the program from https://github.com/florencos/Projet-S4-14--2017/tree/master/Computer and put all the files in the same folder.
 
 How to run it
 It is possible to run it from the python shell or any other interpreter, text editor (sublime, anaconda) or from the CMD
