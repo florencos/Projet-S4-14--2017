@@ -1,0 +1,2 @@
+This is an application to simulate the action of judging the right handle.
+As shown in the interface, only when the input equals the id of tag of next handle can the application alarms and reports the location of the next handle.
