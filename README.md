@@ -14,4 +14,4 @@ To do so, the three programs present in this respository are needed:
 
 # License
 
-All the the components of this projet are free license. 
+All the the components of this projet are licensed under GNU GENERAL PUBLIC LICENSE Version 2
